@@ -1,0 +1,128 @@
+/* --- COLORE PRINCIPALE --- */
+
+:root {
+  --main-color: #666;
+}
+
+/* --- TITOLI --- */
+
+h2 {
+  font-weight: bold;
+  text-shadow: -1px 0 #333333, 0 1px #333333, 1px 0 #333333, 0 -1px #333333;
+  color: var(--main-color);
+  font-size: 55px;
+}
+
+h3 {
+  color: var(--main-color);
+  text-align: center;
+  text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+/* --- PARAGRAFI --- */
+
+p {
+  text-align: center;
+  font-size: 22px;
+}
+
+/* --- SLIDE 1 --- */
+
+slides > slide.title-slide hgroup h1 {
+  text-align: center;
+  text-shadow: -1px 0 #333, 0 1px #333, 1px 0 #333, 0 -1px #333;
+  color: var(--main-color);
+  width: 700px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+slides > slide.title-slide p {
+  text-align: left;
+}
+
+/* --- SLIDE 2 --- */
+
+#centered p {
+  line-height: 1.4em;
+}
+
+#centered {
+  width: 800px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* --- SLIDE 3 --- */
+
+#slide3 p {
+  font-size: 30px;
+  width: 700px;
+  line-height: 1.4em;
+  font-style: italic;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#slide3 hr {
+  margin-top: 25.5%;
+  background-color: #F28482;
+  border-color: #F28482;
+  height: 3px;
+  width: 225px;
+}
+
+/* --- SLIDE 4 --- */
+
+#vittime-di-violenza p {
+  line-height: 1.8em;
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* --- SLIDE 22 --- */
+
+#slide22 p {
+  font-size: 28px;
+  line-height: 1.8em;
+}
+
+/* --- SLIDE MULTIPLE  --- */
+
+slides > slide > hgroup + article p {
+  margin-bottom: 0;
+}
+
+#slide6, #slide10, #slide13 ,#slide16, #slide22, #vittime-di-violenza {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.titolo-sezione p {
+  font-weight: bold;
+  text-shadow: -1px 0 #333333, 0 1px #333333, 1px 0 #333333, 0 -1px #333333;
+  color: var(--main-color);
+  width: 700px;
+  font-size: 65px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+slides > slide:not(.nobackground):after {
+  content: '';
+}

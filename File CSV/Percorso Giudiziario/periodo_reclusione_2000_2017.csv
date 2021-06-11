@@ -1,0 +1,361 @@
+Anno;Sesso;Provenienza;Reato;<=1 Mese;1 Mese - 3 Mesi;3 Mesi - 6 Mesi;6 Mesi - 12 Mesi;1 Anno - Anni;2 Anni - 3 Anni;3 Anni - 5 Anni;5 Anni - 10 Anni;>10 Anni
+2000;M;Italia;Omicidi Volontari;0;0;0;0;3;1;10;53;415
+2000;M;Italia;Percosse;38;34;10;4;1;0;0;0;0
+2000;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2000;M;Italia;Violenze Sessuali;0;0;10;194;395;111;144;89;6
+2000;M;Italia;Maltrattamenti;8;15;307;465;166;12;1;1;1
+2000;M;Paese Estero;Omicidi Volontari;0;0;0;0;2;0;0;12;45
+2000;M;Paese Estero;Percosse;7;2;0;0;1;0;0;0;0
+2000;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2000;M;Paese Estero;Violenze Sessuali;1;1;1;26;96;42;48;34;0
+2000;M;Paese Estero;Maltrattamenti;1;1;29;50;12;3;1;0;0
+2000;F;Italia;Omicidi Volontari;0;0;0;0;0;0;1;7;6
+2000;F;Italia;Percosse;10;5;0;0;0;0;0;0;0
+2000;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2000;F;Italia;Violenze Sessuali;0;0;0;0;9;5;2;2;0
+2000;F;Italia;Maltrattamenti;0;2;19;33;11;1;0;0;0
+2000;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;0
+2000;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2000;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2000;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;0;0;0;0
+2000;F;Paese Estero;Maltrattamenti;0;0;2;2;1;0;0;0;0
+2001;M;Italia;Omicidi Volontari;0;0;1;0;2;4;6;69;541
+2001;M;Italia;Percosse;37;33;5;3;1;0;0;0;0
+2001;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2001;M;Italia;Violenze Sessuali;0;3;14;172;426;118;147;103;4
+2001;M;Italia;Maltrattamenti;7;13;319;516;177;9;3;0;0
+2001;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;2;2;14;93
+2001;M;Paese Estero;Percosse;3;10;2;0;0;0;0;0;0
+2001;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2001;M;Paese Estero;Violenze Sessuali;0;2;2;50;167;66;87;75;3
+2001;M;Paese Estero;Maltrattamenti;1;1;42;94;41;2;6;0;0
+2001;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;6;19
+2001;F;Italia;Percosse;4;5;1;0;0;0;0;0;0
+2001;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2001;F;Italia;Violenze Sessuali;0;0;0;1;7;2;3;5;0
+2001;F;Italia;Maltrattamenti;2;0;20;25;2;1;0;0;0
+2001;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;1
+2001;F;Paese Estero;Percosse;4;2;0;0;0;0;0;0;0
+2001;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2001;F;Paese Estero;Violenze Sessuali;0;0;0;0;1;0;1;1;0
+2001;F;Paese Estero;Maltrattamenti;0;0;1;6;1;1;0;0;0
+2002;M;Italia;Omicidi Volontari;0;0;0;1;2;2;11;96;597
+2002;M;Italia;Percosse;40;37;9;1;0;0;0;0;0
+2002;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2002;M;Italia;Violenze Sessuali;0;2;21;166;481;150;169;123;15
+2002;M;Italia;Maltrattamenti;9;29;267;522;208;9;3;0;1
+2002;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;1;13;63
+2002;M;Paese Estero;Percosse;5;4;1;0;0;0;0;0;0
+2002;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2002;M;Paese Estero;Violenze Sessuali;0;0;2;26;93;26;64;49;7
+2002;M;Paese Estero;Maltrattamenti;0;1;31;70;33;0;1;0;0
+2002;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;5;15
+2002;F;Italia;Percosse;10;9;1;0;0;0;0;0;0
+2002;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2002;F;Italia;Violenze Sessuali;0;0;0;1;3;2;8;9;4
+2002;F;Italia;Maltrattamenti;1;3;18;26;15;0;0;0;0
+2002;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;1;0
+2002;F;Paese Estero;Percosse;0;1;0;0;0;0;0;0;0
+2002;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2002;F;Paese Estero;Violenze Sessuali;0;0;0;0;2;0;1;1;0
+2002;F;Paese Estero;Maltrattamenti;0;0;2;3;7;0;0;0;0
+2003;M;Italia;Omicidi Volontari;0;0;0;1;5;0;7;116;626
+2003;M;Italia;Percosse;34;34;12;2;0;0;0;0;0
+2003;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2003;M;Italia;Violenze Sessuali;3;5;16;212;462;151;165;90;8
+2003;M;Italia;Maltrattamenti;5;18;277;545;223;6;1;2;0
+2003;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;2;1;15;109
+2003;M;Paese Estero;Percosse;11;5;5;0;0;0;0;0;0
+2003;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2003;M;Paese Estero;Violenze Sessuali;0;0;6;32;133;58;92;68;3
+2003;M;Paese Estero;Maltrattamenti;1;5;43;80;42;2;2;0;0
+2003;F;Italia;Omicidi Volontari;0;0;0;0;0;0;1;11;11
+2003;F;Italia;Percosse;7;2;0;0;0;0;0;0;0
+2003;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2003;F;Italia;Violenze Sessuali;0;0;1;2;7;2;6;3;2
+2003;F;Italia;Maltrattamenti;1;0;23;29;12;1;0;0;0
+2003;F;Paese Estero;Omicidi Volontari;0;0;0;0;1;0;0;1;1
+2003;F;Paese Estero;Percosse;1;1;0;0;0;0;0;0;0
+2003;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2003;F;Paese Estero;Violenze Sessuali;0;0;0;1;0;0;2;2;0
+2003;F;Paese Estero;Maltrattamenti;1;2;2;4;2;1;0;0;1
+2004;M;Italia;Omicidi Volontari;1;0;0;0;3;1;7;139;626
+2004;M;Italia;Percosse;28;23;4;4;0;0;0;0;0
+2004;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2004;M;Italia;Violenze Sessuali;0;3;34;202;446;195;180;91;5
+2004;M;Italia;Maltrattamenti;7;15;274;561;235;18;3;1;0
+2004;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;0;1;26;103
+2004;M;Paese Estero;Percosse;4;6;1;1;0;0;0;0;0
+2004;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2004;M;Paese Estero;Violenze Sessuali;0;0;0;36;120;71;109;63;1
+2004;M;Paese Estero;Maltrattamenti;0;2;33;76;54;4;3;0;0
+2004;F;Italia;Omicidi Volontari;0;0;0;0;0;0;1;9;20
+2004;F;Italia;Percosse;5;6;0;0;0;0;0;0;0
+2004;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2004;F;Italia;Violenze Sessuali;0;0;1;3;4;6;3;1;1
+2004;F;Italia;Maltrattamenti;0;2;14;24;9;0;0;0;0
+2004;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;4
+2004;F;Paese Estero;Percosse;0;1;0;0;0;0;0;0;0
+2004;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2004;F;Paese Estero;Violenze Sessuali;0;0;0;0;2;0;1;0;0
+2004;F;Paese Estero;Maltrattamenti;0;0;2;9;4;1;0;0;0
+2005;M;Italia;Omicidi Volontari;1;0;1;1;2;0;7;120;690
+2005;M;Italia;Percosse;16;21;6;2;1;1;0;0;0
+2005;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2005;M;Italia;Violenze Sessuali;0;1;25;172;418;192;182;72;8
+2005;M;Italia;Maltrattamenti;10;9;276;537;228;19;4;0;0
+2005;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;1;1;18;80
+2005;M;Paese Estero;Percosse;5;5;1;0;0;0;0;0;0
+2005;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2005;M;Paese Estero;Violenze Sessuali;0;0;6;45;143;69;105;52;3
+2005;M;Paese Estero;Maltrattamenti;1;3;34;82;48;3;1;1;0
+2005;F;Italia;Omicidi Volontari;0;0;0;0;1;0;1;7;15
+2005;F;Italia;Percosse;4;4;1;0;0;0;0;0;0
+2005;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2005;F;Italia;Violenze Sessuali;0;0;0;0;7;5;7;5;1
+2005;F;Italia;Maltrattamenti;1;0;18;17;10;0;1;0;0
+2005;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;2;3
+2005;F;Paese Estero;Percosse;1;2;0;0;0;0;0;0;0
+2005;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2005;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;1;2;0;0
+2005;F;Paese Estero;Maltrattamenti;0;0;2;8;7;0;0;0;0
+2006;M;Italia;Omicidi Volontari;1;0;0;1;1;8;6;63;530
+2006;M;Italia;Percosse;19;15;5;2;0;0;0;0;0
+2006;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2006;M;Italia;Violenze Sessuali;0;5;22;162;406;136;147;92;8
+2006;M;Italia;Maltrattamenti;7;7;219;526;221;19;6;1;0
+2006;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;3;24;96
+2006;M;Paese Estero;Percosse;1;5;3;0;1;0;0;0;0
+2006;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2006;M;Paese Estero;Violenze Sessuali;0;0;1;44;151;52;118;57;6
+2006;M;Paese Estero;Maltrattamenti;0;2;36;90;66;6;0;0;0
+2006;F;Italia;Omicidi Volontari;0;0;0;0;0;0;2;4;14
+2006;F;Italia;Percosse;3;2;0;0;0;0;0;0;0
+2006;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2006;F;Italia;Violenze Sessuali;0;0;0;0;4;3;4;4;1
+2006;F;Italia;Maltrattamenti;1;0;11;26;7;0;0;0;0
+2006;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;1;3
+2006;F;Paese Estero;Percosse;2;0;0;0;0;0;0;0;0
+2006;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2006;F;Paese Estero;Violenze Sessuali;0;0;0;3;1;0;1;2;0
+2006;F;Paese Estero;Maltrattamenti;0;0;4;11;5;1;0;0;0
+2007;M;Italia;Omicidi Volontari;0;0;0;0;5;3;8;85;451
+2007;M;Italia;Percosse;16;22;5;2;0;0;0;0;0
+2007;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2007;M;Italia;Violenze Sessuali;0;3;12;197;437;154;178;95;5
+2007;M;Italia;Maltrattamenti;3;8;250;697;347;25;8;1;0
+2007;M;Paese Estero;Omicidi Volontari;0;0;0;1;2;0;1;31;147
+2007;M;Paese Estero;Percosse;2;1;2;0;0;1;0;0;0
+2007;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2007;M;Paese Estero;Violenze Sessuali;0;1;6;43;164;60;95;72;8
+2007;M;Paese Estero;Maltrattamenti;1;1;47;146;97;10;1;1;0
+2007;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;12;11
+2007;F;Italia;Percosse;6;3;2;0;0;0;0;0;0
+2007;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2007;F;Italia;Violenze Sessuali;0;0;0;2;2;1;2;4;0
+2007;F;Italia;Maltrattamenti;0;0;15;26;8;2;1;0;0
+2007;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;1;3;6
+2007;F;Paese Estero;Percosse;0;1;0;0;0;0;0;0;0
+2007;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2007;F;Paese Estero;Violenze Sessuali;0;0;0;1;0;1;1;0;0
+2007;F;Paese Estero;Maltrattamenti;0;0;3;9;8;1;0;0;0
+2008;M;Italia;Omicidi Volontari;0;0;0;1;4;4;2;64;487
+2008;M;Italia;Percosse;11;16;1;1;0;0;0;0;0
+2008;M;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2008;M;Italia;Violenze Sessuali;0;1;13;157;407;122;196;141;3
+2008;M;Italia;Maltrattamenti;3;12;171;686;394;58;10;1;1
+2008;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;1;2;14;132
+2008;M;Paese Estero;Percosse;3;1;0;0;0;2;0;0;0
+2008;M;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2008;M;Paese Estero;Violenze Sessuali;0;0;6;42;153;84;117;78;3
+2008;M;Paese Estero;Maltrattamenti;0;1;29;138;103;11;1;0;0
+2008;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;2;16
+2008;F;Italia;Percosse;2;1;0;0;0;0;0;0;0
+2008;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2008;F;Italia;Violenze Sessuali;0;0;0;1;1;4;4;4;0
+2008;F;Italia;Maltrattamenti;0;0;23;31;20;0;1;0;0
+2008;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;2;0
+2008;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2008;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2008;F;Paese Estero;Violenze Sessuali;0;0;0;0;1;2;2;0;0
+2008;F;Paese Estero;Maltrattamenti;0;0;3;12;2;1;0;0;0
+2009;M;Italia;Omicidi Volontari;0;0;0;0;2;2;4;50;541
+2009;M;Italia;Percosse;10;12;6;3;0;0;0;0;0
+2009;M;Italia;Stalking;0;1;10;9;4;0;0;0;0
+2009;M;Italia;Violenze Sessuali;0;3;15;169;575;224;341;241;13
+2009;M;Italia;Maltrattamenti;4;14;197;776;559;67;17;3;1
+2009;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;3;8;96
+2009;M;Paese Estero;Percosse;2;3;4;0;0;0;0;0;0
+2009;M;Paese Estero;Stalking;0;1;1;1;1;0;0;0;0
+2009;M;Paese Estero;Violenze Sessuali;0;1;7;39;228;140;241;183;17
+2009;M;Paese Estero;Maltrattamenti;0;4;43;208;149;30;4;2;0
+2009;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;5;10
+2009;F;Italia;Percosse;1;1;2;0;0;0;0;0;0
+2009;F;Italia;Stalking;0;0;0;0;0;0;0;0;0
+2009;F;Italia;Violenze Sessuali;0;0;0;2;5;7;8;10;0
+2009;F;Italia;Maltrattamenti;0;1;10;26;22;5;1;0;0
+2009;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;2;6
+2009;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2009;F;Paese Estero;Stalking;0;0;0;0;0;0;0;0;0
+2009;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;0;1;1;1
+2009;F;Paese Estero;Maltrattamenti;0;0;2;11;4;2;4;0;0
+2010;M;Italia;Omicidi Volontari;0;0;0;0;6;0;4;52;406
+2010;M;Italia;Percosse;7;8;5;2;0;0;0;0;0
+2010;M;Italia;Stalking;0;5;43;74;47;2;0;0;0
+2010;M;Italia;Violenze Sessuali;0;3;11;132;409;133;199;163;19
+2010;M;Italia;Maltrattamenti;2;13;168;646;501;53;15;3;0
+2010;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;6;91
+2010;M;Paese Estero;Percosse;3;2;0;0;0;0;0;0;0
+2010;M;Paese Estero;Stalking;1;1;8;12;7;0;0;0;0
+2010;M;Paese Estero;Violenze Sessuali;0;2;1;37;207;93;174;139;12
+2010;M;Paese Estero;Maltrattamenti;0;3;49;183;165;32;7;1;0
+2010;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;5;9
+2010;F;Italia;Percosse;2;2;0;0;0;0;0;0;0
+2010;F;Italia;Stalking;0;0;1;2;0;0;0;0;0
+2010;F;Italia;Violenze Sessuali;0;0;0;0;6;2;5;5;0
+2010;F;Italia;Maltrattamenti;0;0;8;35;22;3;0;2;0
+2010;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;4;7
+2010;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2010;F;Paese Estero;Stalking;0;0;0;0;1;0;0;0;0
+2010;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;1;1;2;0
+2010;F;Paese Estero;Maltrattamenti;0;0;9;11;7;2;0;1;0
+2011;M;Italia;Omicidi Volontari;0;0;0;0;2;0;2;37;297
+2011;M;Italia;Percosse;6;6;6;2;0;0;0;0;0
+2011;M;Italia;Stalking;1;12;90;146;94;10;4;2;0
+2011;M;Italia;Violenze Sessuali;0;4;14;118;442;119;179;148;20
+2011;M;Italia;Maltrattamenti;2;13;147;648;525;60;10;2;1
+2011;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;1;10;85
+2011;M;Paese Estero;Percosse;1;4;3;0;1;0;0;0;0
+2011;M;Paese Estero;Stalking;1;3;13;32;21;2;0;0;0
+2011;M;Paese Estero;Violenze Sessuali;0;2;5;31;219;97;134;132;22
+2011;M;Paese Estero;Maltrattamenti;1;2;46;225;206;36;8;1;0
+2011;F;Italia;Omicidi Volontari;0;0;0;0;0;0;1;4;7
+2011;F;Italia;Percosse;0;2;0;0;0;0;0;0;0
+2011;F;Italia;Stalking;1;1;12;10;4;0;0;0;0
+2011;F;Italia;Violenze Sessuali;0;0;0;1;3;2;5;5;0
+2011;F;Italia;Maltrattamenti;1;0;8;31;22;5;0;1;0
+2011;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;3
+2011;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2011;F;Paese Estero;Stalking;0;0;2;2;1;0;0;0;0
+2011;F;Paese Estero;Violenze Sessuali;0;0;0;0;1;0;1;2;1
+2011;F;Paese Estero;Maltrattamenti;0;0;7;11;10;1;2;0;0
+2012;M;Italia;Omicidi Volontari;0;0;0;0;2;0;2;42;325
+2012;M;Italia;Percosse;8;9;5;2;2;0;3;0;0
+2012;M;Italia;Stalking;2;23;133;230;111;15;2;1;0
+2012;M;Italia;Violenze Sessuali;0;3;13;111;400;146;193;161;20
+2012;M;Italia;Maltrattamenti;5;10;143;599;555;68;18;3;1
+2012;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;0;1;6;101
+2012;M;Paese Estero;Percosse;3;4;2;0;0;0;0;0;0
+2012;M;Paese Estero;Stalking;0;3;20;43;32;10;2;0;0
+2012;M;Paese Estero;Violenze Sessuali;0;0;3;39;199;95;163;138;12
+2012;M;Paese Estero;Maltrattamenti;0;4;35;247;227;41;10;3;0
+2012;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;5;6
+2012;F;Italia;Percosse;2;1;0;0;0;0;0;0;0
+2012;F;Italia;Stalking;0;4;26;19;7;0;0;0;0
+2012;F;Italia;Violenze Sessuali;0;0;0;0;3;2;2;3;1
+2012;F;Italia;Maltrattamenti;0;0;11;35;29;5;0;0;0
+2012;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;2
+2012;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2012;F;Paese Estero;Stalking;0;0;2;0;0;0;0;0;0
+2012;F;Paese Estero;Violenze Sessuali;0;1;0;0;1;0;2;0;0
+2012;F;Paese Estero;Maltrattamenti;0;0;1;9;13;3;2;0;1
+2013;M;Italia;Omicidi Volontari;0;0;0;0;2;0;1;46;304
+2013;M;Italia;Percosse;10;13;7;4;2;1;0;0;0
+2013;M;Italia;Stalking;1;23;144;245;132;16;6;0;0
+2013;M;Italia;Violenze Sessuali;0;0;10;134;429;131;166;168;15
+2013;M;Italia;Maltrattamenti;3;12;132;590;521;91;23;4;0
+2013;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;1;15;144
+2013;M;Paese Estero;Percosse;3;7;1;0;2;0;0;0;0
+2013;M;Paese Estero;Stalking;1;6;33;49;34;5;1;0;0
+2013;M;Paese Estero;Violenze Sessuali;0;0;4;51;235;99;140;129;7
+2013;M;Paese Estero;Maltrattamenti;0;4;31;221;255;39;9;0;1
+2013;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;5;14
+2013;F;Italia;Percosse;0;1;0;0;0;0;0;0;0
+2013;F;Italia;Stalking;0;11;17;22;7;1;0;0;0
+2013;F;Italia;Violenze Sessuali;0;0;0;3;6;2;5;5;1
+2013;F;Italia;Maltrattamenti;0;1;5;16;26;6;1;0;0
+2013;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;1;2
+2013;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2013;F;Paese Estero;Stalking;3;0;6;1;2;0;0;0;0
+2013;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;1;1;5;0
+2013;F;Paese Estero;Maltrattamenti;0;0;2;3;13;1;1;0;0
+2014;M;Italia;Omicidi Volontari;0;0;0;0;0;1;2;41;378
+2014;M;Italia;Percosse;5;13;7;1;0;0;0;0;0
+2014;M;Italia;Stalking;5;29;151;263;177;26;3;0;0
+2014;M;Italia;Violenze Sessuali;0;2;7;107;366;105;143;127;15
+2014;M;Italia;Maltrattamenti;3;2;67;502;676;76;21;2;0
+2014;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;0;0;20;138
+2014;M;Paese Estero;Percosse;1;1;2;0;0;0;0;0;0
+2014;M;Paese Estero;Stalking;0;2;23;65;35;3;3;0;0
+2014;M;Paese Estero;Violenze Sessuali;0;1;4;36;186;83;134;122;5
+2014;M;Paese Estero;Maltrattamenti;0;6;34;204;312;57;9;1;0
+2014;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;1;9
+2014;F;Italia;Percosse;0;0;0;0;0;0;0;0;0
+2014;F;Italia;Stalking;1;6;28;19;11;0;0;0;0
+2014;F;Italia;Violenze Sessuali;0;0;0;0;1;0;0;1;0
+2014;F;Italia;Maltrattamenti;0;1;7;26;30;2;1;0;0
+2014;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;4
+2014;F;Paese Estero;Percosse;1;0;0;0;0;0;0;0;0
+2014;F;Paese Estero;Stalking;0;1;3;2;2;0;0;0;0
+2014;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;1;2;1;1
+2014;F;Paese Estero;Maltrattamenti;1;1;0;10;9;1;0;0;0
+2015;M;Italia;Omicidi Volontari;0;0;0;0;0;0;7;33;337
+2015;M;Italia;Percosse;8;6;3;0;0;0;0;0;0
+2015;M;Italia;Stalking;2;28;211;372;240;33;2;2;4
+2015;M;Italia;Violenze Sessuali;0;0;14;118;395;110;178;150;17
+2015;M;Italia;Maltrattamenti;3;11;65;517;773;148;39;1;6
+2015;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;1;21;90
+2015;M;Paese Estero;Percosse;2;2;3;3;0;0;0;0;0
+2015;M;Paese Estero;Stalking;0;4;36;67;48;7;2;2;7
+2015;M;Paese Estero;Violenze Sessuali;0;2;6;49;200;64;128;133;19
+2015;M;Paese Estero;Maltrattamenti;0;7;28;172;358;80;13;3;35
+2015;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;4;11
+2015;F;Italia;Percosse;3;2;0;1;0;0;0;0;0
+2015;F;Italia;Stalking;0;4;26;25;12;0;0;0;0
+2015;F;Italia;Violenze Sessuali;0;0;0;0;4;2;1;3;0
+2015;F;Italia;Maltrattamenti;0;0;4;20;37;1;9;1;1
+2015;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;5;7
+2015;F;Paese Estero;Percosse;0;0;2;0;0;0;0;0;0
+2015;F;Paese Estero;Stalking;0;2;9;4;2;0;0;0;0
+2015;F;Paese Estero;Violenze Sessuali;0;0;0;0;1;1;0;2;1
+2015;F;Paese Estero;Maltrattamenti;0;1;2;21;20;5;5;0;2
+2016;M;Italia;Omicidi Volontari;0;0;0;0;1;2;4;42;386
+2016;M;Italia;Percosse;2;12;9;3;0;0;0;0;0
+2016;M;Italia;Stalking;5;30;188;482;241;34;11;5;0
+2016;M;Italia;Violenze Sessuali;1;2;8;79;353;87;151;127;12
+2016;M;Italia;Maltrattamenti;3;8;43;470;839;194;32;10;6
+2016;M;Paese Estero;Omicidi Volontari;0;0;0;0;1;0;0;21;132
+2016;M;Paese Estero;Percosse;2;7;3;3;0;0;0;0;0
+2016;M;Paese Estero;Stalking;0;3;26;76;57;13;3;3;0
+2016;M;Paese Estero;Violenze Sessuali;0;0;2;51;215;71;122;140;7
+2016;M;Paese Estero;Maltrattamenti;0;2;16;153;433;106;23;42;41
+2016;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;7;13
+2016;F;Italia;Percosse;1;1;0;2;0;0;0;0;0
+2016;F;Italia;Stalking;1;13;26;39;13;0;0;0;0
+2016;F;Italia;Violenze Sessuali;0;0;0;1;3;1;4;2;2
+2016;F;Italia;Maltrattamenti;1;1;2;36;42;12;1;0;0
+2016;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;3;4
+2016;F;Paese Estero;Percosse;0;0;0;1;0;0;0;0;0
+2016;F;Paese Estero;Stalking;0;1;5;6;6;0;0;1;0
+2016;F;Paese Estero;Violenze Sessuali;0;0;0;0;0;0;2;1;0
+2016;F;Paese Estero;Maltrattamenti;0;0;1;10;28;6;2;2;5
+2017;M;Italia;Omicidi Volontari;0;0;0;1;0;0;4;58;412
+2017;M;Italia;Percosse;6;10;5;1;1;0;0;0;0
+2017;M;Italia;Stalking;1;23;205;474;336;43;14;1;0
+2017;M;Italia;Violenze Sessuali;0;0;6;84;406;114;200;145;19
+2017;M;Italia;Maltrattamenti;4;6;30;435;986;231;53;6;1
+2017;M;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;7;79
+2017;M;Paese Estero;Percosse;2;2;1;0;0;0;0;0;0
+2017;M;Paese Estero;Stalking;3;4;35;76;62;14;1;0;0
+2017;M;Paese Estero;Violenze Sessuali;0;0;3;44;218;69;173;129;12
+2017;M;Paese Estero;Maltrattamenti;1;1;6;130;426;123;27;2;0
+2017;F;Italia;Omicidi Volontari;0;0;0;0;0;0;0;2;20
+2017;F;Italia;Percosse;1;0;0;0;0;0;0;0;0
+2017;F;Italia;Stalking;1;9;34;51;12;0;0;0;0
+2017;F;Italia;Violenze Sessuali;0;0;0;0;2;0;4;3;2
+2017;F;Italia;Maltrattamenti;1;0;0;31;57;6;2;1;0
+2017;F;Paese Estero;Omicidi Volontari;0;0;0;0;0;0;0;0;2
+2017;F;Paese Estero;Percosse;0;0;0;0;0;0;0;0;0
+2017;F;Paese Estero;Stalking;0;0;10;12;1;0;0;0;0
+2017;F;Paese Estero;Violenze Sessuali;0;0;0;1;1;1;2;1;1
+2017;F;Paese Estero;Maltrattamenti;0;0;2;17;29;6;1;0;0

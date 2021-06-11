@@ -1,0 +1,151 @@
+---
+title: "Violenza sulle Donne"
+author: "Andrea Gritti"
+date: "15/06/2021"
+output:
+  ioslides_presentation:
+    logo: whiteribbon.png
+    css: style.css
+  beamer_presentation: default
+---
+
+```{r setup, include = FALSE, echo = FALSE, message = FALSE}
+load(file = "data.RData")
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, fig.align = 'center')
+```
+
+***
+
+<div id = "centered">
+### Violenza Fisica:
+
+Minaccia di essere colpita, spinta, picchiata, colpita con armi o sottoposta a tentativi di soffocamento e bruciature.
+
+### Violenza Sessuale:
+
+Stupro, tentato stupro, molestie sessuali, costrizione a rapporti sessuali con altre persone, rapporti sessuali indesiderati e le attività sessuali fatte per paura delle conseguenze, degradanti e umilianti.
+</div>
+
+## {#slide3} 
+
+<hr>
+“ Qualsiasi atto di violenza di genere che provoca o possa provocare danni fisici, sessuali o psicologici alle donne, incluse le minacce di tali atti, la coercizione o la privazione arbitraria della libertà, sia che si verifichi nella vita pubblica o privata. ”
+
+***
+
+<div class = "titolo-sezione">
+  <span>Il Fenomeno</span>
+</div>
+
+## Vittime di Violenza
+
+<div id = "vittime-di-violenza">
+  6.589.825 <br />
+  31.5%
+
+```{r, dpi = 90, fig.height = 1.4}
+library(extrafont)
+extrafont::font_import (path="C:\\Users\\Andrea\\AppData\\Local\\Microsoft\\Windows\\Fonts", pattern = "fontawesome-webfont.ttf", prompt =  FALSE)
+loadfonts(device = "win")
+
+vita_plot
+```
+
+</div>
+
+## {#slide6}
+
+```{r, dpi = 90}
+tipologia_di_violenza_vita_plot
+```
+
+## Fasce d'Età
+
+```{r}
+fasce_eta_plot
+```
+
+## Autore
+
+```{r}
+legame_plot
+```
+
+## Presenza di Altri
+
+```{r, dpi = 100}
+presenza_di_altri_plot
+```
+
+## {#slide10}
+
+```{r, dpi = 100}
+presenza_altri
+```
+
+***
+
+<div class = "titolo-sezione">
+  <span>Richiesta d'Aiuto</span>
+</div>
+
+## Chiamate al 1522
+
+```{r, dpi = 100}
+chiamate_al_giorno_da_vittime_plot
+```
+
+## {#slide13}
+
+```{r, dpi = 100}
+chiamate_al_giorno_da_vittime_marzo_maggio_plot
+```
+
+## Motivo Chiamate
+
+```{r}
+tipologia_di_violenza_plot
+```
+
+## Percentuale Denunce
+
+```{r, dpi = 100}
+denunce_2006_2014_plot
+```
+
+## {#slide16}
+
+```{r}
+denunce_plot
+```
+
+## Motivazioni
+
+```{r}
+denuncia_e_ritiro_della_stessa_plot
+```
+
+***
+
+<div class = "titolo-sezione">
+  <span>Percorso Giudiziario</span>
+</div>
+
+## Condannati per Reato
+```{r, dpi = 100}
+condannati_2000_2017_plot
+```
+
+## Periodo di Reclusione
+```{r}
+periodo_reclusione_2000_2017_sistemato_plot
+```
+
+## Fonti {#slide22}
+
+Istituto Nazionale di Statistica (ISTAT) <br />
+Dipartimento delle Pari Opportunità <br />
+Centri Antiviolenza <br />
+Case Rifugio <br />
+Servizio 1522 <br />
+Ministero dell’Interno, il Sistema di Indagine (SDI) <br />
