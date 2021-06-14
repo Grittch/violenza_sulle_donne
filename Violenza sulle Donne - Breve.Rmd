@@ -26,11 +26,6 @@ Minaccia di essere colpita, spinta, picchiata, colpita con armi o sottoposta a t
 Stupro, tentato stupro, molestie sessuali, costrizione a rapporti sessuali con altre persone, rapporti sessuali indesiderati e le attività sessuali fatte per paura delle conseguenze, degradanti e umilianti.
 </div>
 
-## {#slide3} 
-
-<hr>
-“ Qualsiasi atto di violenza di genere che provoca o possa provocare danni fisici, sessuali o psicologici alle donne, incluse le minacce di tali atti, la coercizione o la privazione arbitraria della libertà, sia che si verifichi nella vita pubblica o privata. ”
-
 ***
 
 <div class = "titolo-sezione">
@@ -52,12 +47,6 @@ vita_plot
 ```
 
 </div>
-
-## Tipologia
-
-```{r, dpi = 90}
-tipologia_di_violenza_vita_plot
-```
 
 ## Fasce d'Età
 
@@ -123,27 +112,6 @@ denunce_plot
 
 ```{r}
 denuncia_e_ritiro_della_stessa_plot
-```
-
-***
-
-<div class = "titolo-sezione">
-  <span>Percorso Giudiziario</span>
-</div>
-
-## Condannati per Reato
-```{r, dpi = 100}
-condannati_2000_2017_plot
-```
-
-## Provenienza Condannato
-```{r, dpi = 100}
-condannati_2000_2017_sistemato_plot
-```
-
-## Periodo di Reclusione
-```{r}
-periodo_reclusione_2000_2017_sistemato_plot
 ```
 
 ## Fonti {#slide22}

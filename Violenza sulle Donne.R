@@ -205,7 +205,7 @@ presenza_altri <- presenza_di_altri_sistemato %>%
   arrange(desc(Percentuale)) %>%
   ggplot(., mapping = aes(x = Risposta, y = Percentuale, fill = Risposta, label = scales::percent(Percentuale, accuracy = 0.1))) +
   geom_bar(stat = "identity", position = "dodge", color = "#000000FF") +
-  coord_flip(ylim = c(0, 0.68)) +
+  coord_flip(ylim = c(0, 0.72)) +
   scale_x_discrete(limits = rev(posizione_chart)) +
   theme_minimal() +
   scale_fill_manual(values = cinque_colori) +
