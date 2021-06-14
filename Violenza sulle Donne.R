@@ -205,7 +205,7 @@ presenza_altri <- presenza_di_altri_sistemato %>%
   arrange(desc(Percentuale)) %>%
   ggplot(., mapping = aes(x = Risposta, y = Percentuale, fill = Risposta, label = scales::percent(Percentuale, accuracy = 0.1))) +
   geom_bar(stat = "identity", position = "dodge", color = "#000000FF") +
-  coord_flip(ylim = c(0, 0.72)) +
+  coord_flip(ylim = c(0, 0.75)) +
   scale_x_discrete(limits = rev(posizione_chart)) +
   theme_minimal() +
   scale_fill_manual(values = cinque_colori) +
@@ -217,7 +217,7 @@ presenza_altri <- presenza_di_altri_sistemato %>%
     legend.title = element_blank(),
     legend.position = "none",
   ) +
-  geom_text(position = position_dodge(width = .9), hjust = -0.2, vjust = 0.3, size = 3.5) +
+  geom_text(position = position_dodge(width = .9), hjust = -0.1, vjust = 0.3, size = 3.5) +
   facet_wrap(.~Violenza, strip.position = "bottom")
 
 #**#**#**#**#**# RICHIESTA D'AIUTO #**#**#**#**#**#

@@ -115,7 +115,7 @@ denunce_2006_2014_plot
 
 ## {#slide16}
 
-```{r}
+```{r, dpi = 110}
 denunce_plot
 ```
 
